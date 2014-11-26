@@ -1,0 +1,5 @@
+E:\dotNetProjects\Nobul Todo\Nobul Todo\bin\Nobul Todo.dll
+E:\dotNetProjects\Nobul Todo\Nobul Todo\bin\Nobul Todo.pdb
+E:\dotNetProjects\Nobul Todo\Nobul Todo\obj\Debug\Nobul Todo.csprojResolveAssemblyReference.cache
+E:\dotNetProjects\Nobul Todo\Nobul Todo\obj\Debug\Nobul Todo.dll
+E:\dotNetProjects\Nobul Todo\Nobul Todo\obj\Debug\Nobul Todo.pdb
