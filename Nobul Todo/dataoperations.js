@@ -41,7 +41,7 @@ function Save() {
         "id": ++numOfElements,
         "title": $('#title').val(),
         "status": $('input[name=status]:checked').val(),
-        "date": getDate(),
+        "date": $('#duedate').val(),
         "description": $('#description').val()
     };
     window.localStorage.setItem("entry", JSON.stringify(entry));
